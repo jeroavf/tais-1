@@ -358,7 +358,6 @@
  - apresentaçãodeproposta
  - apresentcaodeproposta
 
-
 ## intent:lei_rouanet_analise_de_admissibilidade
  - #análisedeadmissibilidade
  - #analisedeadmissibilidade
